@@ -1,0 +1,10 @@
+.element-container img {
+    /* Your CSS properties here */
+    max-width: 100%;
+    /* Add any additional styles you need */
+}
+
+ .centered, .stButton, .stTitle {
+    display: flex;
+    justify-content: center;
+} 

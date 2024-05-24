@@ -1,0 +1,5 @@
+Streamlit==1.12.0
+path==16.10.0
+qrcode[pil]
+segno
+qrcode-artistic
